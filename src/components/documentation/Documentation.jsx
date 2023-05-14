@@ -24,8 +24,8 @@ function Documentation() {
 
           <p>
             git clone{" "}
-            <a href="#">
-              https://github.com/your-username/product-management-system.git
+            <a href="https://github.com/AmytMan/Product-management-system">
+              https://github.com/AmytMan/Product-management-system
             </a>
           </p>
           <li>
